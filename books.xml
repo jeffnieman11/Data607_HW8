@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<Books_on_Leadership>
+  <book id="1">
+    <Title>On Becoming a Leader</Title>
+    <Author1>Warren Bennis</Author1>
+    <Author2>NA</Author2>
+    <Edition>1</Edition>
+    <Pages>226</Pages>
+    <Year>1994</Year>
+    <Publisher>Addison-Wesley</Publisher>
+  </book>
+  <book id="2">
+    <Title>Leaders</Title>
+    <Author1>Warren Bennis</Author1>
+    <Author2>Burt Nannus</Author2>
+    <Edition>2</Edition>
+    <Pages>235</Pages>
+    <Year>1997</Year>
+    <Publisher>Harper Business</Publisher>
+  </book>
+  <book id="3">
+    <Title>The Leadership Challenge</Title>
+    <Author1>James Kouzes</Author1>
+    <Author2>Barry Postner</Author2>
+    <Edition>3</Edition>
+    <Pages>458</Pages>
+    <Year>2002</Year>
+    <Publisher>Jossey-Bass</Publisher>
+  </book>
+  <book id="4">
+    <Title>Leading Change</Title>
+    <Author1>John Kotter</Author1>
+    <Author2>NA</Author2>
+    <Edition>1</Edition>
+    <Pages>186</Pages>
+    <Year>1996</Year>
+    <Publisher>Harvard Business School Press</Publisher>
+  </book>
+</Books_on_Leadership>
+
+	
